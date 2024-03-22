@@ -22,13 +22,14 @@ No additional libraries are required to run this game. Simply clone the reposito
 ```bash
 git clone https://github.com/cgio2003/PairAssignment.git
 cd math-quiz-game
+```
 
 ## Usage
-
 To start the game, run the following command in your terminal:
 
 ```bash
 python3 math_quiz_game.py
+```
 
 The game will then begin, prompting you to solve each equation it presents. Enter your answer and press Enter to submit. To skip a question, press Enter without typing an answer.
 
