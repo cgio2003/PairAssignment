@@ -78,7 +78,7 @@ def main():
                 quit_or_not = True  # Keep playing if the input is any other number
         else:
             quit_or_not = True  # This covers cases where the input is not numeric
-            
+
 
 if __name__ == "__main__":
     main()
